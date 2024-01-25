@@ -1,2 +1,2 @@
 # estrutura-dados-algoritmos
-Repositório do curso de Estrutura de Dados e Algoritmos
+Repositório do programa de cursos integrados de [Estrutura de Dados e Algoritmos](https://www.coursera.org/specializations/data-structures-algorithms), pela UC San Diego.
